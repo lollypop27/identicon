@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ed92d08-a75a-4ed0-ac2e-4b3478001a64" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/identicon.ex" afterPath="$PROJECT_DIR$/lib/identicon.ex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/image.ex" afterPath="$PROJECT_DIR$/lib/image.ex" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="identicon.ex" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/identicon.ex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            <state relative-caret-position="396">
+              <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -30,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/lib/image.ex">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+              <caret line="1" column="59" lean-forward="false" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -44,8 +45,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/image.ex" />
         <option value="$PROJECT_DIR$/lib/identicon.ex" />
+        <option value="$PROJECT_DIR$/lib/image.ex" />
       </list>
     </option>
   </component>
@@ -271,12 +272,12 @@
       <updated>1490764039472</updated>
       <workItem from="1490764041486" duration="4850000" />
       <workItem from="1491031490200" duration="1277000" />
-      <workItem from="1491053200553" duration="1738000" />
+      <workItem from="1491053200553" duration="2878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7865000" />
+    <option name="totallyTimeSpent" value="9005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -331,15 +332,15 @@
     <entry file="file://$PROJECT_DIR$/lib/image.ex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+          <caret line="1" column="59" lean-forward="false" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/identicon.ex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        <state relative-caret-position="396">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
           <folding />
         </state>
       </provider>
